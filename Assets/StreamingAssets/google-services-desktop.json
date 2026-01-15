@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1075787791734",
+    "project_id": "myprotorypegame",
+    "storage_bucket": "myprotorypegame.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075787791734:android:d6cf25f07c1aec5c840e57",
+        "android_client_info": {
+          "package_name": "com.test.myptototype"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGC2GYndb_sOCQWafPq-SQnxX6fCkOFZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
